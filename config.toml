@@ -1,4 +1,4 @@
-baseURL = "ggiampietro.github.io"
+baseURL = "/"
 title = "Hello, World!"
 themesDir = "./themes"
 theme = "m10c"
